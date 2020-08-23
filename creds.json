@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "digitalrec-2020",
+  "private_key_id": "32a8a9e013d6c1807f4c62b9057649fdf144bba7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCoUdedpmAMnCeH\nIcBI8s3E2LzLtJpYkkZZoxCeKOUqdVttW2bomCoxQVyD71/yidCtLwtyKOHQkcOD\n3hAzVrTJkDVWQ3XjFa3/DkdDcHdaKGd6W8R0iqiWENQy9rwybKJYCSfUB552GgDj\npBtnoQqulRT0gNKzS84h6CCy9zHZUT5wAS7ygeDhrnoNhKX4BGlQVko3C0Sf+9JL\nZTnJrtcZ2L+bmkK8SKOGu4hSjNaBbLwvoqLd7TuVuij1uKZyX039e5UVKeO2jS6Z\n+mc8xUxgyH14TMUZc5DfvAMq134+1RXW5Xh0fs6Se82Lmtw4UrEgiPZSMguviq1A\n0vDrRIzdAgMBAAECggEABWTkDEsT6muJr8Cy5ROU6RFKEZwm0x5S71X0tyDX4UG0\nDZ/ffyY7Oetej+LYuBDXFWm7y+uH+xNkyOHRspd9gTUkJHDSgxXDhvg56+0bghHn\n6QmuVM7Jws9kwYJbOyF0nW4jrt2UpDPGogT1FN/aFAi2jHRhbDoKb9c8zwdxe0Wc\nFYUbtwB8HoCDbqjYaudz6O/rHa2Qn611XplxMCrGikG1zpEFlB38Z6zLKTG35gxK\nanwvNZWaoRxSch3zCKu4WtF3usQUD3EuIY0FlWiBuUFjRU+G8954k4FuXdZnRkwR\nbGVxzXwwVey8J6jLpI2EW8/suKR9z++NtGj70epHaQKBgQDttlcKd0t9t0bOxh8I\n+kZSs7bkYCDdd35X60e90a+8N0zRwgXw2SV4gujhZKlXvRsl3nX0SU25bj7fHcbg\nIUIzcGXmQmV9J22sH5DF6p5kNTjR9SXbSYD8IxMaiNMUK2L6rYq11tfuUtPJ42V5\nhge46Bkz1ezK87wUrGxS3ZJZiQKBgQC1RNb//gG/Glw4KbaZlAyMIJ7IKag10vGS\nn+MAuXDVdurftRgYlPemh/VJ9X20nCH+URnytwTViA4ZL7AOtHv2MVKu4uFPTlbu\nK6cjS395fglvZW93hbnJbUcjSlCVBJBWpfkSR5kvZwx4/UN1HtEPR02YjAeFXeBf\n91KCB/SHtQKBgQDgLewcVLD/GI9QhgvSvaUAbbf33Khh9EVUyPDZlRz0lfp+f0p2\n/3KVGnBh0DrcId2ucwQuo8sHK29jn4Nk8Dispj2TT97CjyKhBwvTexZxTrgNWfKf\nwcxA/RsRFSRrixdHbc64+qqdecN+TFPwrXQu78SE3CT6qa4gmRN3erqAcQKBgQCh\nfAJNa+wCY2lkX0Tc7JeA/k514yaHTLUI+ocwTgPHJ3l2cc5Vl+BH6zcJ/DlQfQeL\nmJSVNZaI4/wrU+B0OTV1zdrrEhPGovOumhT7zHZztWSSaLs0r10jpMaLGdlP6BDu\nIE4TitVc9WCXKIi//gQgqFToYVcR6N/KnnpSfOPLQQKBgFDGf2mCJ0tfWF8b7Q0L\nAsG6RSdYfFQUMfKb4+fNnjGH/ULTYh5AkpYCzPDXUtYyu9sNNyyXBAzR+amBJUmt\nXpKSd5fdUFjowJT7Q9DBQ+la4mT5hg6VtFPTBaJBPsH/MqnQ1Wg4IDRvui9Uncp7\nw2lF3QTlGsTjPqAtP38xZkQq\n-----END PRIVATE KEY-----\n",
+  "client_email": "digitalrecp@digitalrec-2020.iam.gserviceaccount.com",
+  "client_id": "115693098161188988741",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/digitalrecp%40digitalrec-2020.iam.gserviceaccount.com"
+}
